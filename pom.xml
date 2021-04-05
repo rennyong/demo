@@ -8,7 +8,11 @@
         <version>2.4.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+<<<<<<< HEAD
     <groupId>com.examplesz</groupId>
+=======
+    <groupId>com.example</groupId>
+>>>>>>> 0434a66129f6ea3b4644f2a436a9c8e83277b7c4
     <artifactId>demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
